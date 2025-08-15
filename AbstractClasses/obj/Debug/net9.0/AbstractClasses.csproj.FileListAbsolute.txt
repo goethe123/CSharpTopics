@@ -1,0 +1,15 @@
+/Users/goetheramirezramirez/Desktop/CSharpTopics/AbstractClasses/bin/Debug/net9.0/AbstractClasses
+/Users/goetheramirezramirez/Desktop/CSharpTopics/AbstractClasses/bin/Debug/net9.0/AbstractClasses.deps.json
+/Users/goetheramirezramirez/Desktop/CSharpTopics/AbstractClasses/bin/Debug/net9.0/AbstractClasses.runtimeconfig.json
+/Users/goetheramirezramirez/Desktop/CSharpTopics/AbstractClasses/bin/Debug/net9.0/AbstractClasses.dll
+/Users/goetheramirezramirez/Desktop/CSharpTopics/AbstractClasses/bin/Debug/net9.0/AbstractClasses.pdb
+/Users/goetheramirezramirez/Desktop/CSharpTopics/AbstractClasses/obj/Debug/net9.0/AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/goetheramirezramirez/Desktop/CSharpTopics/AbstractClasses/obj/Debug/net9.0/AbstractClasses.AssemblyInfoInputs.cache
+/Users/goetheramirezramirez/Desktop/CSharpTopics/AbstractClasses/obj/Debug/net9.0/AbstractClasses.AssemblyInfo.cs
+/Users/goetheramirezramirez/Desktop/CSharpTopics/AbstractClasses/obj/Debug/net9.0/AbstractClasses.csproj.CoreCompileInputs.cache
+/Users/goetheramirezramirez/Desktop/CSharpTopics/AbstractClasses/obj/Debug/net9.0/AbstractClasses.sourcelink.json
+/Users/goetheramirezramirez/Desktop/CSharpTopics/AbstractClasses/obj/Debug/net9.0/AbstractClasses.dll
+/Users/goetheramirezramirez/Desktop/CSharpTopics/AbstractClasses/obj/Debug/net9.0/refint/AbstractClasses.dll
+/Users/goetheramirezramirez/Desktop/CSharpTopics/AbstractClasses/obj/Debug/net9.0/AbstractClasses.pdb
+/Users/goetheramirezramirez/Desktop/CSharpTopics/AbstractClasses/obj/Debug/net9.0/AbstractClasses.genruntimeconfig.cache
+/Users/goetheramirezramirez/Desktop/CSharpTopics/AbstractClasses/obj/Debug/net9.0/ref/AbstractClasses.dll
