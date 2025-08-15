@@ -1,0 +1,15 @@
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Structs/Structs1/bin/Debug/net9.0/Structs1
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Structs/Structs1/bin/Debug/net9.0/Structs1.deps.json
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Structs/Structs1/bin/Debug/net9.0/Structs1.runtimeconfig.json
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Structs/Structs1/bin/Debug/net9.0/Structs1.dll
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Structs/Structs1/bin/Debug/net9.0/Structs1.pdb
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Structs/Structs1/obj/Debug/net9.0/Structs1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Structs/Structs1/obj/Debug/net9.0/Structs1.AssemblyInfoInputs.cache
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Structs/Structs1/obj/Debug/net9.0/Structs1.AssemblyInfo.cs
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Structs/Structs1/obj/Debug/net9.0/Structs1.csproj.CoreCompileInputs.cache
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Structs/Structs1/obj/Debug/net9.0/Structs1.sourcelink.json
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Structs/Structs1/obj/Debug/net9.0/Structs1.dll
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Structs/Structs1/obj/Debug/net9.0/refint/Structs1.dll
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Structs/Structs1/obj/Debug/net9.0/Structs1.pdb
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Structs/Structs1/obj/Debug/net9.0/Structs1.genruntimeconfig.cache
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Structs/Structs1/obj/Debug/net9.0/ref/Structs1.dll
