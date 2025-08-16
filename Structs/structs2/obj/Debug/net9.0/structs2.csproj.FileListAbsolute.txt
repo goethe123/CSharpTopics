@@ -1,0 +1,15 @@
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Structs/structs2/bin/Debug/net9.0/structs2
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Structs/structs2/bin/Debug/net9.0/structs2.deps.json
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Structs/structs2/bin/Debug/net9.0/structs2.runtimeconfig.json
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Structs/structs2/bin/Debug/net9.0/structs2.dll
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Structs/structs2/bin/Debug/net9.0/structs2.pdb
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Structs/structs2/obj/Debug/net9.0/structs2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Structs/structs2/obj/Debug/net9.0/structs2.AssemblyInfoInputs.cache
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Structs/structs2/obj/Debug/net9.0/structs2.AssemblyInfo.cs
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Structs/structs2/obj/Debug/net9.0/structs2.csproj.CoreCompileInputs.cache
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Structs/structs2/obj/Debug/net9.0/structs2.sourcelink.json
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Structs/structs2/obj/Debug/net9.0/structs2.dll
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Structs/structs2/obj/Debug/net9.0/refint/structs2.dll
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Structs/structs2/obj/Debug/net9.0/structs2.pdb
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Structs/structs2/obj/Debug/net9.0/structs2.genruntimeconfig.cache
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Structs/structs2/obj/Debug/net9.0/ref/structs2.dll
