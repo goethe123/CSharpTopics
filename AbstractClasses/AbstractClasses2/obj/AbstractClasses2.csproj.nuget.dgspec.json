@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/goetheramirezramirez/Desktop/CSharpTopics/AbstractClasses/AbstractClasses.csproj": {}
+    "/Users/goetheramirezramirez/Desktop/CSharpTopics/AbstractClasses/AbstractClasses2/AbstractClasses2.csproj": {}
   },
   "projects": {
-    "/Users/goetheramirezramirez/Desktop/CSharpTopics/AbstractClasses/AbstractClasses.csproj": {
+    "/Users/goetheramirezramirez/Desktop/CSharpTopics/AbstractClasses/AbstractClasses2/AbstractClasses2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/goetheramirezramirez/Desktop/CSharpTopics/AbstractClasses/AbstractClasses.csproj",
-        "projectName": "AbstractClasses",
-        "projectPath": "/Users/goetheramirezramirez/Desktop/CSharpTopics/AbstractClasses/AbstractClasses.csproj",
+        "projectUniqueName": "/Users/goetheramirezramirez/Desktop/CSharpTopics/AbstractClasses/AbstractClasses2/AbstractClasses2.csproj",
+        "projectName": "AbstractClasses2",
+        "projectPath": "/Users/goetheramirezramirez/Desktop/CSharpTopics/AbstractClasses/AbstractClasses2/AbstractClasses2.csproj",
         "packagesPath": "/Users/goetheramirezramirez/.nuget/packages/",
-        "outputPath": "/Users/goetheramirezramirez/Desktop/CSharpTopics/AbstractClasses/obj/",
+        "outputPath": "/Users/goetheramirezramirez/Desktop/CSharpTopics/AbstractClasses/AbstractClasses2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/goetheramirezramirez/.nuget/NuGet/NuGet.Config"
