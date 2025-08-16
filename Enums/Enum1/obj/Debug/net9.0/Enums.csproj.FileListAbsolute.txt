@@ -1,0 +1,15 @@
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Enums/Enum1/bin/Debug/net9.0/Enums
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Enums/Enum1/bin/Debug/net9.0/Enums.deps.json
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Enums/Enum1/bin/Debug/net9.0/Enums.runtimeconfig.json
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Enums/Enum1/bin/Debug/net9.0/Enums.dll
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Enums/Enum1/bin/Debug/net9.0/Enums.pdb
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Enums/Enum1/obj/Debug/net9.0/Enums.GeneratedMSBuildEditorConfig.editorconfig
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Enums/Enum1/obj/Debug/net9.0/Enums.AssemblyInfoInputs.cache
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Enums/Enum1/obj/Debug/net9.0/Enums.AssemblyInfo.cs
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Enums/Enum1/obj/Debug/net9.0/Enums.csproj.CoreCompileInputs.cache
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Enums/Enum1/obj/Debug/net9.0/Enums.sourcelink.json
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Enums/Enum1/obj/Debug/net9.0/Enums.dll
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Enums/Enum1/obj/Debug/net9.0/refint/Enums.dll
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Enums/Enum1/obj/Debug/net9.0/Enums.pdb
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Enums/Enum1/obj/Debug/net9.0/Enums.genruntimeconfig.cache
+/Users/goetheramirezramirez/Desktop/CSharpTopics/Enums/Enum1/obj/Debug/net9.0/ref/Enums.dll
